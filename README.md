@@ -9,4 +9,5 @@ Mata Kuliah Sistem Operasi Fakultas Ilmu Komputer UI
 
 <h3><b>Log Kegiatan</b></h3>
 <b>1. ZCZC: Sistem Operasi 2018 Awal</b> 
+
 <b>2. ZCZC W01: Telah Mengerjakan Lab 01</b>
