@@ -14,3 +14,4 @@ Mata Kuliah Sistem Operasi Fakultas Ilmu Komputer UI
 3. ZCZC W02: Telah Mengerjakan Lab 02
 4. ZCZC W03: Telah Mengerjakan Lab 03
 5. ZCZC W04: Telah Mengerjakan Lab 04
+6. ZCZC W05: Telah Mengerjakan Lab 05
